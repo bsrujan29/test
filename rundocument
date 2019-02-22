@@ -1,0 +1,4 @@
+java -classpath .;MavenSampleJavaProject-1.0-SNAPSHOT.jar com.websystique.maven.App
+
+
+to run the application using command line arguments
